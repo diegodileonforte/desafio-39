@@ -1,0 +1,13 @@
+2021-08-11T23:20:46.041Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-11T23:21:34.061Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-11T23:21:47.983Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-11T23:23:14.622Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-11T23:23:15.707Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-11T23:46:26.743Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-11T23:46:35.576Z [31merror[39m: 	Cannot read property 'status' of undefined
+2021-08-11T23:46:45.583Z [31merror[39m: 	Operation `productomodels.insertOne()` buffering timed out after 10000ms
+2021-08-11T23:47:03.686Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-11T23:53:39.921Z [31merror[39m: 	Cannot read property 'status' of undefined
+2021-08-12T00:10:12.419Z [31merror[39m: 	Cannot read property 'status' of undefined
+2021-08-12T00:10:59.764Z [31merror[39m: 	Cannot read property 'status' of undefined
+2021-08-12T00:12:35.514Z [31merror[39m: 	Cannot read property 'status' of undefined
